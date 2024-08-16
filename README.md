@@ -11,11 +11,11 @@ Consider the following images that are example images used to compute depth imag
 Following is the disparity map computed through the above images.
 
 
-<img width="238" alt="disparity_map" src="https://github.com/user-attachments/assets/afa04c64-2169-442f-b504-2a00ef4f1e5a">
+<img width="596" alt="disparity_map" src="https://github.com/user-attachments/assets/afa04c64-2169-442f-b504-2a00ef4f1e5a">
 
 
 Following is the depth map computed.
 
 
 
-<img width="241" alt="depth_map" src="https://github.com/user-attachments/assets/386e6fd6-e093-4a14-87d0-85778daf5043">
+<img width="596" alt="depth_map" src="https://github.com/user-attachments/assets/386e6fd6-e093-4a14-87d0-85778daf5043">
